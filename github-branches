@@ -1,0 +1,5 @@
+git branch -a -vv
+
+* main                0dba8b9 [origin/main] Add simple interest calculator script
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/main 0dba8b9 Add simple interest calculator script
